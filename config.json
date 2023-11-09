@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Mint Salon & Spa",
+        "slug"      : "Mint-salon-spa",
+        "phone"     : "(408) 615-0615", 
+        "email"     : "Heidinguyen518@gmail.com",
+        "address"   : "10617 S De Anza Blvd., Cupertino, California 95014",
+        "time_1"    : "[Mon - Fri] 10:00 AM - 07:00 PM",
+        "time_2"    : "[Sat] 10:00 AM - 06:00 PM",
+        "time_3"    : "[Sun] 11:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/mintsalonspa.ca",
+        "instagram" :   "https://www.instagram.com/mintsalonspa.ca",
+        "google"    :   "https://maps.app.goo.gl/4qA7UGXiuyrKVmex9",
+        "booking"   :   "https://www.lldtek.com/salon/appt/UTBGZk1EazNNVFE9",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3173.216998715875!2d-122.0351089236278!3d37.313687238585736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb5072c5cc7ed%3A0x3f37c57df22f320e!2sMint%20Salon%20%26%20Spa!5e0!3m2!1sen!2sus!4v1699427931868!5m2!1sen!2sus"
+    },
+    "color": {
+        "primary"               :   "#d16c65",
+        "primary_light"         :   "#cbdfd2",
+        "primary_hover"         :   "#b25b54",
+        "secondary"             :   "#ffd86c",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":    "on",
+    "path_image":   "img/",
+    "domain":       "https://catsnailsandspa.com/"
+}
